@@ -1,11 +1,8 @@
-build:
-  version: "2.0"
-
 accounts:
   message: "QA"
   contactDetails:
-    name: "Smitha Ray - QA Lead"
-    email: "smitha@eazybank.com"
+    name: "???"
+    email: "???"
   onCallSupport:
-    - (666) 265-3765
-    - (666) 734-8371
+    - (098) 33452-64
+    - (435) 34543-76
